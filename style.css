@@ -1,0 +1,40 @@
+/* Basic */
+.title{
+	font-size: 36px;
+	margin: 4px;
+}
+.heading{
+	font-size: 30px;
+	margin: 6px;
+}
+.subheading{
+	font-size: 24px;
+	margin: 8px;
+}
+p{
+	font-size: 18px;
+	margin: 8px;
+}
+.center{
+	text-align: center;
+}
+#zero-margin{
+	margin: 0px;
+}
+
+.white-box{
+	background-color: #ffffff;
+	padding: 10px;
+	margin: 20px;
+}
+body{
+	background-color: #efefef;
+}
+
+/* Fonts */
+.times-new-roman{
+	font-family: "Times New Roman", Times, serif;
+}
+.arial{
+	font-family: Arial, Helvetica, sans-serif;
+}
